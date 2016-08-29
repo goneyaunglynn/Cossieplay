@@ -1,0 +1,119 @@
+#left-para {
+    text-align: left;
+	font-family: 'Francois One', sans-serif;
+}
+
+#right-para {
+    text-align: right;
+	font-family: 'Francois One', sans-serif;
+}
+
+.para {
+    text-align: justify;
+    font-family: 'Dosis', sans-serif;
+	font-size: 18px;
+	
+}
+
+#sign{
+    text-align: center;
+	font-family: 'Francois One', sans-serif;
+}
+
+#head {
+    text-align: center;
+	font-family: 'Francois One', sans-serif;
+    font-size: 70px;
+}
+
+#annon {
+    text-align: center;
+	font-family: 'Francois One', sans-serif;
+    font-size: 20px;
+}
+
+#gal {
+    text-align: center;
+	font-family: 'Francois One', sans-serif;
+}
+
+#logo {
+	margin-left: 22%;
+}
+
+.navbar-short {
+	width: 61%;
+	margin-left: 20%;
+}
+
+#nav-eles {
+	width: 1000px;
+	margin-left: 8%;
+}
+
+.nav-ele {
+	margin-left: 6%;
+	margin-right: 6%;
+	font-size: 20px;
+	font-family: 'Francois One', sans-serif;
+    color: white;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 58%;
+	margin-left: 20%;
+}
+
+.contact>h1 {
+	font-family: 'Francois One', sans-serif;
+	color: white;
+}
+
+.contact>p {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 20px;
+	color: white;
+}
+
+.footer-logo {
+	width: 30%;
+	height: 30%;
+	margin-left: 16%;
+	margin-top: 2%;
+}
+
+#footer {
+	background-color: #222;
+}
+
+
+<!-- Table Style -->
+table.tableizer-table {
+	font-size: 20px;
+	border: 1px solid #CCC; 
+	font-family: Georgia, serif;
+} 
+
+.tableizer-table td {
+	padding: 4px;
+	margin: 3px;
+    border: 1px solid #CCC;
+}
+        
+.tableizer-table th {
+	background-color: #000000; 
+	color: #FFF;
+	font-weight: bold;
+}
+
+#price {
+	text-align: center;
+	font-family: 'Francois One', sans-serif;
+}
